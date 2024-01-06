@@ -1,1 +1,7 @@
-[![maciejors's GitHub stats](https://github-readme-stats.vercel.app/api?username=maciejors&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+Hi!
+
+I'm a fourth-year Data Science student at the Warsaw University of Technology. I particularly enjoy:
+- working on Data Science projects in Python,
+- making websites.
+
+I've pinned my favourite projects below. Feel free to check them out!
