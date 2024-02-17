@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm a fourth-year Data Science student at the Warsaw University of Technology. I particularly enjoy:
+I'm a Data Science student at the Warsaw University of Technology. I particularly enjoy:
 - working on Data Science projects in Python,
 - making websites (React / Svelte / Vue, TypeScript, Tailwindcss).
 
